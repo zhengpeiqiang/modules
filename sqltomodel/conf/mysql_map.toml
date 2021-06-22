@@ -1,0 +1,7 @@
+# this is mysql config
+[database]
+    [database.default]
+        host = "rm-wz99n03kfe100hepp5o.mysql.rds.aliyuncs.com"
+        port = "3306"
+        user = "sugar"
+        pwd = "sugar@2021"
